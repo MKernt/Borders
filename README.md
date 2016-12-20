@@ -1,2 +1,2 @@
 # Borders
-Datasets and -scripts for Borderconfigurations BSR/SCR
+Datasets and -scripts for Border configurations BSR/SCR
