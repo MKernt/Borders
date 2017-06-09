@@ -1,0 +1,63 @@
+Source: http://eur-lex.europa.eu/collection/eu-law/treaties/treaties-overview.html (Accessed: 22.03.2016, 27.03.2017)
+Reoccuring Topics: 
+
+
+Total Amount of Documents analyzed: 46
+Eco = Economic
+PM = People Movement
+Cap = Capital
+Ser = Services
+Name = Name of the Document (Preferrably official)
+P = Pagenumber of Norms
+Tim = Number of times the norm appears in the document
+
+Coding: Occurence in General Document = 1
+Occurence in Specific Document = 0.5 (specific documents that exclusively deal with the norm specific subject are coded as 1)
+
+Year	Eco	P	Tim	PM	P	Tim	Cap	P	Tim	Ser	P	Tim	Name
+1951	0.5	5	1	-	-	-	-	-	-	-	-	-	Treaty establishing the European Coal and Steel Community EN2(1951)
+1957	-												Convention on certain institutions common to the European Communities (1957) EN
+1957	1	3,6,7,8	4	1	3,23	2	1	3,27	2	1	3, 29	2	Treaty establishing the European Economic Community (1957)
+1957	0.5	56	1	0.5	13	1	0.5	13	1	-	-	-	Treaty establishing the European Atomic Energy Community (1957)
+1965	-	-	-	-	-	-	-	-	-	-	-	-	Merger Treaty (1965)
+1970	-	-	-	-	-	-	-	-	-	-	-	-	Treaty amending certain budgetary provisions (1970)
+1972	1	20	1	-	-	-	1	39	1	-	-	-	Treaty of Accession of Denmark, Ireland and the United Kingdom (1972) 
+1975	-	-	-	-	-	-	-	-	-	-	-	-	Treaty amending certain financial provisions (1975)
+1975	-	-	-	-	-	-	-	-	-	-	-	-	Treaty amending certain provisions of the Protocol on the Statute of the European Investment Bank (1975)
+1979	1	22	1	1	27	1	1	28	1	-	-	-	Treaty of Accession of Greece (1979) 
+1984	0.5	1	1	-	-	-	-	-	-	-	-	-	Treaty of Greenland (1984)
+1985	1	29,31	2	1	35	1	1	37,91	2	-	-	-	Treaty of Accession of Spain and Portugal (1985) 
+1985	1	3,68	3	1	3,5	2	-	-	-	-	-	-	Schengen Convention (1985) 
+1986	1	8	1	1	8	1	1	8	1	1	8	1	Single European Act (1986)
+1992	1	8,12	2	1	5,8,12	3	1	8,11	2	1	8,12	2	Treaty on European Union (1992)
+1992	1	10,12	2	1	10,12,22	3	1	10,12	2	1	10,12	2	Treaty establishing the European Community (Consolidated version 1992)
+1992	1	8,9,10	3	1	8,9,12	3	1	8,9,13	1	1	8,9,14	3	Agreement on the European Economic Area (1992)
+1994	1	27	1	-	-	-	-	-	-	-	-	-	Treaty of Accession of Austria, Finland and Sweden (1994) 
+1997	-	-	-	1	7,8,28	3	-	-	-	-	-	-	Treaty of Amsterdam (1997)
+1997	-	-	-	1	150,152	2	-	-	-	-	-	-	Treaty on European Union (Consolidated version 1997)
+1997	1	181,185,187	3	1	181,185,193	3	1	181,185,199	3	1	181,185,197	3	Treaty establishing the European Community (Consolidated version 1997)
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Treaty of Nice (2001)
+2002	-	-	-	1	9,11	2	-	-	-	-	-	-	Treaty on European Union (Consolidated version 2002)
+2002	1	40,44,46	3	1	40,44,51	3	1	40,44,56	3	1	40,44,54	3	Treaty establishing the European Community (Consolidated version 2002)
+2003	1	51	1	1	792	1	1	797	1	1	917	1	Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia (2003) 
+2004	1	12,41,58,64	4	1	12,41,58,59	4	1	12,41,58,66	4	1	12,41,58,63	4	Treaty establishing a Constitution for Europe (2004)
+2005	-	-	-	-	-	-	-	-	-	-	-	-	Treaty of Accession of the Republic of Bulgaria and Romania (2005) 
+2006	-	-	-	1	10	1	-	-	-	-	-	-	Treaty on European Union (Consolidated version 2006)
+2006	1	44,48,51	3	1	44,48,57	3	1	44,48,64	3	1	44,48,62	3	Treaty establishing the European Community (Consolidated version 2006)
+2007	-	-	-	1	11	1	-	-	-	-	-	-	Treaty of Lisbon (2007)
+2007	1	2	1	1	2	1	1	2	1	1	2	1	Charter of Fundamental Rights of the European Union (2007) 
+2008	1	59	2	1	59,66	2	1	59,71	2	1	59,70	2	Treaty on the Functioning of the European Union (Consolidated version 2008)
+2008	-	-	-	1	16,17	2	-	-	-	-	-	-	Treaty on European Union (Consolidated version 2008)
+2010	1	59	2	1	59,66	2	1	59,71	2	1	59,70	2	Treaty on the Functioning of the European Union (Consolidated version 2010)
+2010	-	-	-	1	16,17	2	-	-	-	-	-	-	Treaty on European Union (Consolidated version 2010)
+2010	-	-	-	-	-	-	-	-	-	-	-	-	Treaty establishing the European Atomic Energy Community (Consolidated version 2010)
+2010	1	395	1	1	395	1	1	395	1	1	395	1	Charter of Fundamental Rights of the European Union (2010)
+2012	-	-	-	-	-	-	-	-	-	-	-	-	Treaty of Accession of Croatia (2012) 
+2012	1	395	1	1	395	1	1	395	1	1	395	1	Charter of Fundamental Rights of the European Union (2012)
+2012	-	-	-	-	-	-	-	-	-	-	-	-	Treaty establishing the European Atomic Energy Community (Consolidated version 2012)
+2012	1	59	2	1	59,66	2	1	59,71	2	1	59,70	2	Treaty on the Functioning of the European Union (Consolidated version 2012)
+2012	-	-	-	1	16,17	2	-	-	-	-	-	-	Treaty on European Union (Consolidated version 2012)
+2016	1	393	1	1	393	1	1	393	1	1	393	1	Charter of Fundamental Rights of the European Union (2016)
+2016	-	-	-	-	-	-	-	-	-	-	-	-	Treaty establishing the European Atomic Energy Community (Consolidated version 2016) 
+2016	1	59	2	1	59,66	2	1	59,71	2	1	59,70	2	Treaty on the Functioning of the European Union (Consolidated version 2016) 
+2016	-	-	-	1	16,17	2	-	-	-	-	-	-	Treaty on European union (Consolidated version 2016) 

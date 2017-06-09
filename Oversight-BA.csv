@@ -1,0 +1,200 @@
+Source: http://www.baltasam.org/en/sessions-and-documents (Accessed: 22.03.2017)
+Reoccuring Topics: Energy, Transportation, Cultural Heritage, EU/NATO integration, Improvements in the educational sector, Sorting out issues with Russia
+
+Total Amount of Documents analyzed: 184
+Eco = Economic
+PM = People Movement
+Cap = Capital
+Ser = Services
+Name = Name of the Document (Preferrably official)
+P = Pagenumber of Norms
+Tim = Number of times the norm appears in the document
+
+Coding: Occurence in General Document = 1
+		Occurence in Specific Document = 0.5 (specific documents that exclusively deal with the norm specific subject are coded as 1)
+
+Year	Eco	P	Tim	PM	P	Tim	Cap	P	Tim	Ser P	Tim	Name
+1992	0.5	1	1	-	-	-	-	-	-	-	-	-	Final Document	2nd_finaldoc.pdf
+1992	1	1	1	-	-	-	-	-	-	-	-	-	FINALDOCUMENT OF THE FIRST PLENARY MEETING OF THE BALTIC ASSEMBLY	1st_finaldoc_.pdf
+1993	1	1	1	-	-	-	-	-	-	-	-	-	Resolution on Legislation and Trade Laws	3rd_resolution_3.pdf
+1993	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Baltic Council	3rd_resolution_4.pdf
+1993	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Coordination of Activities of Baltic Parliamentary Delegations	3rd_resolution_2.pdf
+1993	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Establishment of the Baltic Assembly Prizes for Culture, the Arts and Science	3rd_resolution_5.pdf
+1993	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Withdrawal of Russian Troops from Estonia and Latvia	3rd_resolution.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Draft Agreement on Baltic Cooperation among the Republic of Estonia, the Republic of Latvia and the Republic of  Lithuania	4th_resolution_4.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Crossing the Borders	4th_resolution_5.pdf
+1994	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution on Energy	4th_resolution_2.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Pensions and Social Benefits	4th_resolution_1.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Relations with Russia	4th_resolution_3.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning a Baltic Assembly Information Publication	5th_resolution3.pdf
+1994	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution Concerning Co-operation among the Baltic States in Seeking Membership in the European Union	5th_resolution6.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Cooperation among the Baltic States in the  Regulation of Immigration and Repatriation Processes	5th_resolution7.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Cooperation among the Baltic States in the Field of Culture	5th_resolution13.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Cooperation among the Baltic States in the Field of Education	5th_resolution12.pdf
+1994	-	-	-	0.5	1	1	-	-	-	-	-	-	Resolution Concerning Cooperation among the Baltic States in the Field of Science and Studies	5th_resolution1.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Military Cooperation among the Baltic States	5th_resolution4.pdf
+1994	-	-	-	1	1	1	-	-	-	-	-	-	Resolution Concerning the Coordination of Procedures for the Issuing of Visas and Control of Border-Crossing Posts between the Baltic States	5th_resolution2.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Demilitarisation of the Kaliningrad Region and its Future Development	5th_resolution5.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Development of Tourism in the Baltic States 5th_resolution10.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Integration of the Baltic States in the Field of Energy 5th_resolution11.pdf
+1994	-	-	-	-	-	-	-	-	-	-	-	-	Resolution On Compensation to Politically Repressed Land Owners	5th_resolution8.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Sergei Kovaliov's Candidacy for the Nobel Peace Prize	6th_resolution1.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Problem of Border Control and Illegal Immigrants	7th_resolution1.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Problems of the Inhabitants of Estonia, Latvia and Lithuania Living in Border Areas	6th_resolution12.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Cooperation between the Baltic Assembly and the Baltic Council of Ministers	7th_resolution5.pdf
+1995	1	1	1	-	-	-	-	-	-	-	-	-	Resolution Concerning the Solution of Disagreements between the Baltic States	7th_resolution6.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Chechnya	6th_resolution2.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cooperation among the Baltic States regarding Registration of Medicines	6th_resolution8.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Defence Cooperation	7th_resolution8.pdf
+1995	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution on Harmonisation of Trade Regulations on Agricultural and Fisheries Products in the Baltic States	6th_resolution6_.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Joining the Convention on Temporary Admission	7th_resolution3.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Joint Procurement of Medical Instruments and Ambulances	6th_resolution9.pdf
+1995	1	1	1	-	-	-	-	-	-	-	-	-	Resolution on Possibilities for Industrial Cooperation and Specialisation in the Baltic States	6th_resolution11.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Strengthening the Process of Integration into the European Union	6th_resolution3.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the 50th Anniversary of the End of World War II in Europe	6th_resolution4.pdf
+1995	1	1	1	1	1	1	-	-	-	-	-	-	Resolution on the Harmonisation of Border Procedures and the Establishment of Joint Information System in the Baltic States	6th_resolution10.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Principles of Unity of the Baltic States	7th_resolution7.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Promotion and Support of the Studies of the Ethnic Identities of Indigenous Nations of the Baltic States	6th_resolution7.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Railway Pass BALTRAIL	6th_resolution5.pdf
+1995	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Working out a Parliamentary Programme	7th_resolution2.pdf
+1996	0.5	2	1	-	-	-	-	-	-	-	-	-	Declaration on Sustainable Management of Forests and Certification of  Sustainably Managed Forests	9th_declaration_forests.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	8th_final_doc.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	9th_final_document.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on a Joint Programme to Combat Tuberculosis	8th_resol_tuberculosis.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cooperation in Border Policies	9th_resol_border_policies.pdf
+1996	1	1	1	-	-	-	-	-	-	-	-	-	Resolution on Harmonising the Legislation of the Baltic States	9th_resol_legislation.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Rational Use of Energy, Taking into Account the Potential of Renewable Energy Resources in the Baltic States	9th_resol_energy.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Common Policy of the Baltic States concerning NATO Membership	9th_resol_nato.pdf
+1996	1	1	1	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States in Combating Smuggling	9th_resol_smuggling.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States in Minimising Transboundary Pollution	8th_resol_pollution.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States in the Exploitation of  the Sea-Bed and Coastal Areas of the Baltic Sea	8th_resol_exploit_bsea.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States in the Exploration of the Baltic Sea	8th_resol_explor_bsea.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States in the Fight against the Use of Doping in Sports	8th_resol_sports.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Creation of the Common Baltic States' Film and Video Distribution Area	9th_resol_video1.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Reform of the System of Serving Sentences for Criminal Offences	9th_resol_criminal.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Return of Archives	9th_resol_archives.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Rights of the Child	9th_resol_child.pdf
+1997	1	1	1	-	-	-	-	-	-	-	-	-	Final Document	10th_final document.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	11th_final.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Combating Corruption	11th_resolution2.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Combating Drugs	11th_resolution3.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cross-Border Cooperation	11th_resolution6.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Enhancing the Protection of Participants in a Criminal Procedure	11th_resolution4.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Fighting against Money Laundering	10th_resol_money laundering.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Protection of the Territories of the Baltic States from  Obsolete and Inferior Quality Goods	11th_resolution1.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Abolition of the Death Penalty	10th_resol_death penalty.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Baltic States' Integration into the European Union	11th_resolution9.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Common Policy of the Baltic States in Fighting Illegal Immigration	10th_resol_illegal immigration.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Protection of Children's Interests	11th_resolution5.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Transatlantic Integration of the Baltic States	11th_resolution7.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on Concurrent Resolution 320 of the 2nd Session of the U.S. 105th Congress	13th_declaration1.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on the Enlargement of NATO	13th_declaration2.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	12th_final.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	13th_final_doc.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Ensuring Security at Public Events	13th_resolution1.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Excise Tax on Alcohol and its Trade	13th_resolution2.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Informing Society about the European Union	12th_resolution1.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Accusations by the Russian Federation against the Republic of Latvia	12th_resolution4.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Agreement in the Sphere of the Mandatory Civil Liability Insurance of the Owners of Road Transport Motor Vehicles	12th_resolution3.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States to Eliminate Accidents and Emergencies of Transboundary Impact	12th_resolution2.pdf
+1998	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Implementation of the Via Baltica Project	13th_resolution3.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	14th_finaldo.pdf
+1999	1	1	1	-	-	-	-	-	-	-	-	-	Final Document	15th_final.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Preservation of Ethnic Culture in Estonia, Latvia and Lithuania	15_resolution6.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning Preservation of the Cultural Heritage in Estonia, Latvia and Lithuania	14th_resolution_2.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Concerning the Return of Personal Files of Political Prisoners and Deportees	15_resolution7.pdf
+1999	0.5	1	2	-	-	-	-	-	-	-	-	-	Resolution on a Coordinated Agricultural Policy	15_resolution2.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Baltic Energy Strategy	14th_resolution_3.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Development of Transborder Cooperation	15_resolution3.pdf
+1999	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution on the Implementation of the Via Baltica Project	14th_resolution_4.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Maintenance of Graves or Grave Sites of the Residents of the Baltic States Who Had Been Subjected to Repression	15_resolution8.pdf
+1999	1	1	1	-	-	-	-	-	-	-	-	-	Resolution on the Procedure for Imposing Excise Taxes in the Baltic States	15_resolution1.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Recovery of the Former Embassies of the Baltic States in Paris and Rome	14th_resolution_1.pdf
+1999	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Regarding the Situation in the Caucasus	15_resolution5.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	16th_final_doc.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	17th_final_doc.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Assessment of the Resources, Creation of the Conditions and Taking of the Measures Ensuring Sustainable Development in the Baltic States	16th_resolution3.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Intensifying Pedagogical and Educational Activities of Museums	17th_resolution1.pdf
+2000	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution on Measures for Preventing Smuggling	16th_resolution1.pdf
+2000	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of Veterinary, Phytosanitary and Food Inspection Services	16th_resolution2.pdf
+2000	-	-	-	0.5	1	1	-	-	-	-	-	-	Resolution on the Development of Tourism in the Baltic States	16th_resolution6.pdf
+2000	-	-	-	0.5	1	1	-	-	-	-	-	-	Resolution on the Development of Youth Tourism in the Baltic States and the Baltic Sea Region	17th_resolution2.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Protection of Children from Drugs	16th_resolution5.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Situation in Belarus	16th_resolution4.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on the Ratification of the Rome Statute of the International Criminal Court by the Parliaments of Estonia, Latvia and Lithuania	19th_declaration2.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on the Solidarity of the Baltic States with the International Anti-Terrorist Coalition	19th_declaration1.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	18th_final.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	19th_final.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Further Development of the National Languages of the Baltic States in a Common Baltic Education Space	19th_resolution3.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Baltic States in the Field of Control of Dangerous and Extremely Dangerous Infectious Diseases	19th_resolution5.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Cooperation of the Veterinary Services of the Baltic States in Protecting Their Territories from Dangerous Infectious Animal Diseases	19th_resolution1.pdf
+2001	-	-	-	0.5	1	1	-	-	-	-	-	-	Resolution on the Development of a Common Baltic Education Area	18th_resolution.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Development of Marine Tourism in the Baltic States	19th_resolution4.pdf
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Prevention of Spread of Alcoholism	19th_resolution2.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	20_final.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	21_final.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Agricultural Policy	20_resolution2.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Combating the Spread of Narcotic Drugs	21_resolution2.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cooperation among Estonia, Latvia and Lithuania in  Developing Science and Technology	21_resolution4.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cooperation with the Kaliningrad Oblast of the Russian Federation	20_resolution1.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on improving the Teaching of History	20_resolution5.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Baltic States' Integration into NATO	21_resolution1.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Promotion of Making Use of EU Support	20_resolution3.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Renewal of Traffic in Crete Corridor I	21_resolution3.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Role of Libraries in the Development of Information Society	20_resolution4.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	22_final.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Resolution against Trafficking in Women and Children	22_resolution1.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Integration in the Field of Maritime Transport	22_resolution2.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Maritime Cultural Heritage in Estonia, Latvia and Lithuania	22_resolution4.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Support for the Proposal to the Parliamentary Assembly of the Council of Europe to Investigate and Internationally Condemn the Crimes of the Totalitarian Communist Regime	22_resolution5.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	23_final.pdf
+2004	-	-	-	1	1	1	-	-	-	-	-	-	Resolution on Cooperation among the Baltic States in Implementing the Schengen Action Plan	23_resolution4.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cooperation Between the Baltic States and Nordic Countries with Regard to the Quality of Education	23_resolution5.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Labour Market Policy and Migration in the EU Context	23_resolution7.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Need to Assess the Damage Inflicted on the Baltic States by the Occupation	23_resolution3.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Situation in Ukraine	23_resolution2.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the System of Financing Health Care in the Baltic States	23_resolution6.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Resolution Regarding Accusations by the State Duma of the Russian Federation	23_resolution1.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Statutes of the Baltic Assembly	23_statutes.pdf
+2005	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	24_Final_Document.pdf
+2005	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Dangers Connected with Construction of the Gas Pipeline in the Baltic Sea	3_Resolution_on_Gas_Pipeline.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	25_final.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Cooperation in the Field of Fishing Control	25_Fishing_control.pdf
+2006	0.5	1	1	-	-	-	-	-	-	-	-	-	Resolution on Energy Policy of the Baltic States	25_Energetika.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Family Policy	25_Family_Policy.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Situation on the Use of Fish Stocks of the Baltic Sea	25_Fish_stocks.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	Final Document	Doc_13_ENG.pdf
+2007	-	-	-	0.5	1	1	-	-	-	-	-	-	Resolution on a Uniform Higher Education Policy in the Baltic States	Doc_2_ENG.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Combating Domestic Violence	Doc_5_ENG.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Combating Eutrophication of the Baltic Sea	Doc_4_ENG.pdf
+2007	-	-	-	1	1	1	-	-	-	-	-	-	RESOLUTION ON INCREASED COOPERATION OF THE BALTIC STATES IN THE SCHENGEN AREA	2_Schengen_EN.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Joint Air Policing of the Republic of Estonia, the Republic of Latvia and the Republic of Lithuania	Doc_3_ENG.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Baltic States’ Culture Day	Doc_6_ENG.pdf
+2007	-	-	-	0.5	1	2	-	-	-	-	-	-	Resolution on the Development of Human Resources under Conditions of Labour Migration	Doc_1_ENG.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Final Document of the 27th Session of the Baltic Assembly	Final_document.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Climate Change Mitigation and Preventive Measures	RESOLUTION_Climate_change_mitigation.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on Fight against Trafficking in Human beings	RESOLUTION_fight_Trafficking_Human.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the 20th Anniversary of the Baltic Way	RESOLUTION_20th_Baltic_Way.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Resolution on the Fight against Cyber Crimes	RESOLUTION_fight_Cyber_Crime.pdf
+2009	-	-	-	-	-	-	-	-	-	-	-	-	Declaration Concerning Proposals Related to the Solution of the problem of Nagorno-Karabakh	8_Karabah_EN.pdf
+2009	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on New Challenges for Security Agenda	6_Security_EN.pdf
+2009	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on the Situation in Georgia	9_Georgia_EN.pdf
+2009	1	1	1	-	-	-	-	-	-	-	-	-	Final Document	28_final.pdf
+2009	-	-	-	0.5	1	1	-	-	-	-	-	-	RESOLUTION ON DEVELOPMENT OF EDUCATION IN ALIGNMENT WITH LABOUR MARKET NEEDS	5_Education_EN.pdf
+2009	1; 0.5	1;2	1	1.5	1,2	2	-	-	-	-	-	-	Resolution on Ensuring Sustainable Economic and Social Development in the Baltic States	4_Social_EN.pdf
+2009	0.5	2	1	-	-	-	-	-	-	-	-	-	RESOLUTION ON INCREASING ENERGY EFFICIENCY, ENERGY SAVING AND ADAPTING TO CLIMATE CHANGE	3_Environ_EN.pdf
+2010	0.5	1	1	-	-	-	-	-	-	-	-	-	FINAL DOCUMENT of the 29 Session of the Baltic Assembly	1_Nobeig dok-lab_en.pdf
+2010	-	-	-	-	-	-	-	-	-	-	-	-	RESOLUTION Of the 29 th Session of the Baltic Assembly	2_Rezolucija_29_en.pdf
+2011	-	-	-	-	-	-	-	-	-	1	1	1	FINAL DOCUMENT of the 30 Session of the Baltic Assembly	1 Final Document EN.pdf
+2011	-	-	-	-	-	-	-	-	-	-	-	-	RESOLUTION the of the 30 Session of the Baltic Assembly	2 Resolutsion final.pdf
+2012	-	-	-	-	-	-	-	-	-	-	-	-	FINAL DOCUMENT of the 31 Session of the Baltic Assembly	1_findoc_en_30 10.pdf
+2012	1; 0.5	3;5	1	1	3	1	-	-	-	-	-	-	Resolution of the 31st Session of the Baltic Assembly	resolution_31ba.pdf
+2013	0.5	1	1	-	-	-	-	-	-	-	-	-	FINAL DOCUMENT OF THE 32 SESSION OF THE BALTIC ASSEMBLY	1_findoc_18_10_en.pdf
+2013	1.5	1,2	4	-	-	-	-	-	-	-	-	-	RESOLUTION OF THE 32 ND SESSION OF THE BALTIC ASSEMBLY	2_resolution_en.pdf (ECO: 3x0.5, 1x1)
+2014	-	-	-	-	-	-	-	-	-	-	-	-	Baltic Assembly Statutes	BA Statutes.pdf
+2014	-	-	-	-	-	-	-	-	-	-	-	-	Final Document of the 33rd Session of the Baltic Assembly	Final document.pdf (ECO: 0.5x1 (2), 3x1 (1))
+2014	1; 0.5	1;1	1	1	1	1	-	-	-	-	-	-	Resolution of the 33rd Session of the Baltic Assembly	Reslution_33rd session.pdf
+2015	 -	-	-	-	-	-	-	-	-	-	-	-	Final Document of the 34th Session of the Baltic Assembly	FinalDocument_2015.pdf
+2015	1.5	1,2	1	-	-	-	-	-	-	-	-	-	Resolution of the 34th Session of the Baltic Assembly	Resolution.pdf (ECO: 0.5x2 (2,3), 1x2 (1,4))
+2016	0.5	1	1	-	-	-	-	-	-	-	-	-	Final Document of the 35th Session of the Baltic Assembly	35_Fin_doc.pdf
+2016	-	-	-	-	-	-	-	-	-	-	-	-	Resolution of the 35th Session of the Baltic Assembly	35_Resol.pdf

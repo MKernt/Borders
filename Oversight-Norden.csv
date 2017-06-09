@@ -1,0 +1,111 @@
+Source: http://www.norden.org/en/om-samarbejdet-1/nordic-agreements (Accessed: 23.03.2017)
+
+
+Total Amount of Documents analyzed: 95
+Eco = Economic
+PM = People Movement
+Cap = Capital
+Ser = Services
+Name = Name of the Document (Preferrably official)
+P = Pagenumber of Norms
+Tim = Number of times the norm appears in the document
+
+Coding: Occurence in General Document = 1
+		Occurence in Specific Document = 0.5 (specific documents that exclusively deal with the norm specific subject are coded as 1)
+
+Year	Eco	P	Tim	PM	P	Tim	Cap	P	Tim	Ser P	Tim	Name
+1953	-	-	-	-	-	-	-	-	-	-	-	-	Konvention innehållande internationellt privaträttslig bestämmelser om äktenskap, adoption och förmynderskap
+1954	-	-	-	1	2	1	-	-	-	-	-	-	Protocol concerning the exemption of nationals of the Nordic countries from the obligation to have a passport or residence permit while resident in a Nordic country other than their own
+1954	-	-	-	1		1	-	-	-	-	-	-	Agreement Concerning a Common Nordic Labour Market ???.pdf [No document availabe]
+1957	-	-	-	1	1	1	-	-	-	-	-	-	The Nordic Passport Convention.pdf
+1962	-	-	-	-	-	-	-	-	-	-	-	-	Konvention angående indrivning av underhållsbidrag — Nordic cooperation.pdf
+1962	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1965	-	-	-	1	1	1	-	-	-	-	-	-	The Nordic Passport Convention
+1969	-	-	-	-	-	-	-	-	-	-	-	-	Konvention innehållande internationellt privaträttslig bestämmelser om äktenskap, adoption och förmynderskap
+1971	-	-	-	-	-	-	-	-	-	-	-	-	Agreement concerning cultural co-operation — Nordic cooperation.pdf
+1971	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1973	-	-	-	-	-	-	-	-	-	-	-	-	Konvention innehållande internationellt privaträttslig bestämmelser om äktenskap, adoption och förmynderskap
+1973	-	-	-	1	1	1	-	-	-	-	-	-	The Nordic Passport Convention
+1974	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1979	-	-	-	1	1	1	-	-	-	-	-	-	The Nordic Passport Convention
+1981	-	-	-	-	-	-	-	-	-	0.5	2	1	The Nordic Language Convention — Nordic cooperation.pdf
+1982	-	-	-	0.5	2	1	-	-	-	-	-	-	Agreement concerning a common Nordic labour market for class teachers in comprehensive schools — Nordic cooperation.pdf
+1982	-	-	-	1	1,2	3	-	-	-	1	2	-	Agreement Concerning a Common Nordic Labour Market — Nordic cooperation.pdf
+1983	-	-	-	0.5	2	1	-	-	-	-	-	-	Agreement concerning co-operation between authorities and institutions in the field of vocational rehabilitation and training for the labour market — Nordic cooperation.pdf
+1983	-	-	-	-	-	-	-	-	-	-	-	-	Agreement concerning cultural co-operation — Nordic cooperation.pdf
+1983	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1985	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1985	-	-	-	-	-	-	-	-	-	-	-	-	Agreement concerning cultural co-operation — Nordic cooperation.pdf
+1986	-	-	-	0.5	1	1	-	-	-	-	-	-	Avtal om gemensam arbetsmarknad för ämneslärare, lärare i praktisk-estetiska ämnen och speciallärare i grundskolan — Nordic cooperation.pdf
+1989	-	-	-	-	-	-	-	-	-	-	-	-	Agreement concerning cultural co-operation — Nordic cooperation.pdf
+1989	0.5	2	1	0.5	2	1	-	-	-	0.5	2	1	Avtal mellan Danmark, Finland, Norge och Sverige om samarbete över territorialgränserna i syfte att vid olyckshändelse hindra eller begränsa skador på människor eller egendom eller i miljön.pdf
+1989	-	-	-	-	-	-	-	-	-	0.5	3	1	Avtal om handräckning i skatteärenden — Nordic cooperation.pdf
+1989	-	-	-	-	-	-	-	-	-	-	-	-	Convention Concerning the Working Environment — Nordic cooperation.pdf
+1989	-	-	-	-	-	-	-	-	-	-	-	-	Convention for the avoidance of double taxation with respect to taxes on inheritances and gifts — Nordic cooperation.pdf
+1990	-	-	-	-	-	-	-	-	-	-	-	-	Agreement concerning cultural co-operation — Nordic cooperation.pdf
+1991	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1992	-	-	-	-	-	-	-	-	-	-	-	-	Avtal mellan Danmark, Finland, Norge och Sverige om avskaffande av färdblad för tillfällig trafik med buss inom Norden — Nordic cooperation.pdf
+1993	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1994	-	-	-	0.5	2	1	-	-	-	0.5	2	1	Gemensam nordisk arbetsmarknad för viss hälso och sjukvårdspersonal och veterinärer — Nordic cooperation.pdf
+1994	0.5	4	1	-	-	-	-	-	-	0.5	2	.	Nordic Convention on Social Assistance and Social Services — Nordic cooperation.pdf
+1995	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1996	1	6,7	2	1	7	1	1	6	1	-	-	-	The Helsinki Treaty — Nordic cooperation.pdf
+1996	0.5	2,3	2	-	-	-	-	-	-	-	-	-	Agreement concluded by Denmark, Finland, Iceland, Norway and Sweden on Admission to Higher Education — Nordic cooperation.pdf
+1996	-	-	-	-	-	-	-	-	-	-	-	-	Dubbelbeskatning beträffande skatter på inkomst och förmögenhet — Nordic cooperation.pdf
+1997	-	-	-	0.5	2	1	-	-	-	0.5	2	1	Avtal mellan Danmark, Finland, Norge och Sverige om avskaffande av färdblad för tillfällig trafik med buss inom Norden — Nordic cooperation.pdf
+1997	-	-	-	-	-	-	-	-	-	-	-	-	Dubbelbeskatning beträffande skatter på inkomst och förmögenhet — Nordic cooperation.pdf
+1998	-	-	-	0.5	2	1	-	-	-	0.5	2	1	Gemensam nordisk arbetsmarknad för viss hälso och sjukvårdspersonal och veterinärer — Nordic cooperation.pdf
+2000	-	-	-	-	-	-	-	-	-	-	-	-	Konvention angående indrivning av underhållsbidrag — Nordic cooperation.pdf
+2000	-	-	-	1	1,8	2	-	-	-	-	-	-	The Nordic Passport Convention
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Konvention innehållande internationellt privaträttslig bestämmelser om äktenskap, adoption och förmynderskap
+2001	-	-	-	-	-	-	-	-	-	-	-	-	Agreement between Denmark, Iceland, Norway and Sweden concerning cooperation in matters of competition — Nordic cooperation.pdf
+2001	0.5	2	2	-	-	-	-	-	-	-	-	-	Agreement concerning support for industry cooperation in the defence material area — Nordic cooperation.pdf
+2001	0.5	2	1	0.5	2	1	-	-	-	0.5	2	1	Avtal mellan Danmark, Finland, Norge och Sverige om samarbete över territorialgränserna i syfte att vid olyckshändelse hindra eller begränsa skador på människor eller egendom eller i miljön.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Agreement Between Denmark, Finland, Iceland, Norway and Sweden on the Implementation of Certain Provisions Concerning Nationality — Nordic cooperation.pdf
+2002	-	-	-	-	-	-	-	-	-	-	-	-	Nordic public health preparedness agreement — Nordic cooperation.pdf
+2002	0.5	2	1	-	-	-	-	-	-	0.5	2	1	Samordning av pensionsrätt enligt statliga pensionsordningar — Nordic cooperation.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Agreement between Denmark, Iceland, Norway and Sweden concerning cooperation in matters of competition — Nordic cooperation.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Kalmardeklarationen — Nordic cooperation.pdf
+2003	-	-	-	-	-	-	-	-	-	-	-	-	Ministerdeklaration om etisk märkning av livsmedel — Nordic cooperation.pdf
+2003	0.5	1	1	-	-	-	-	-	-	-	-	-	Ministerdeklaration om främjandet av e-handel — Nordic cooperation.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	AKUREYRI-deklarationen om bæredygtig fiskeri — Nordic cooperation.pdf
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Akureyri-deklarationen om skogsbrukets framtida möjligheter och skogbrukens roll i förändrat klimat 
+2004	-	-	-	-	-	-	-	-	-	-	-	-	Akureyri-deklarationen om fødevarer
+2004	0.5	1,2	2	-	-	-	-	-	-	-	-	-	Nordic Agreement on Co-operation on Upper Secondary School Education — Nordic cooperation.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Konvention innehållande internationellt privaträttslig bestämmelser om äktenskap, adoption och förmynderskap
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Ministerbeslutning om bioenergi i Norden — Nordic cooperation.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Ministerbeslutning om det fremtidige nordiske samarbeidet om genetiske ressurser — Nordic cooperation.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Ministerbeslutning om veterinært beredskapssamarbeid i Norden — Nordic cooperation.pdf
+2006	0.5	2,4	2	-	-	-	-	-	-	-	-	-	Ministererklæring for energi fra det nordiske ministermøtet i Bodø den 7.-8.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Ministererklæring om etablering av Svalbard Globale Frølager (Svalbard Global Seed Vault) — Nordic cooperation.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	Svolvær-deklarasjonen om bekjempelse av IUU fiske — Nordic cooperation.pdf
+2006	-	-	-	-	-	-	-	-	-	-	-	-	The Language Declaration — Nordic cooperation.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	Ministerdeklaration om marknadsföring och tillgänglighet av mat för barn och ungdomar — Nordic cooperation.pdf
+2007	-	-	-	-	-	-	-	-	-	-	-	-	The Växjö Declaration_ Animal protection and food — Nordic cooperation.pdf
+2007	-	-	-	1	2	1	-	-	-	-	-	-	Överenskommelse om folkbokföring — Nordic cooperation.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Dubbelbeskatning beträffande skatter på inkomst och förmögenhet — Nordic cooperation.pdf
+2008	0.5	2	1	-	-	-	-	-	-	-	-	-	Selfoss deklarationen om hållbart skogsbruk — Nordic cooperation.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	The Växjö Declaration_ Seals and society — Nordic cooperation.pdf
+2008	-	-	-	-	-	-	-	-	-	-	-	-	Växjö Declaration_ Sustainable fishing guarantees food supplies — Nordic cooperation.pdf
+2009	-	-	-	-	-	-	-	-	-	-	-	-	Nordisk statsministererklæring på klimaområdet — Nordic cooperation.pdf
+2009	-	-	-	-	-	-	-	-	-	-	-	-	Ísafjordur-deklarationen_ Vigtigheden af fiskeri									og avakultursektorerne — Nordic cooperation.pdf
+2010	0.5	2	2	-	-	-	-	-	-	-	-	-	Styrkelse af det nordiske elmarked — Nordic cooperation.pdf
+2011	-	-	-	-	-	-	-	-	-	-	-	-	Helsinki Declaration on Competitive and Sustainable Aquaculture in the Baltic Region — Nordic cooperation.pdf
+2011	-	-	-	-	-	-	-	-	-	-	-	-	The Nordic Partnership Initiative declaration by the Nordic ministers for the Environment and Climate, 15.pdf
+2012	0.5	2,3	2	-	-	-	-	-	-	-	-	-	Agreement concluded by Denmark, Finland, Iceland, Norway and Sweden on Admission to Higher Education — Nordic cooperation.pdf
+2012	0.5	2	1	-	-	-	-	-	-	-	-	-	Nidaros Declaration — Nordic cooperation.pdf
+2012	0.5	2	1	-	-	-	-	-	-	-	-	-	”Hell-Deklarasjonen”_ Kommuniké från energiministermötet i Hell, 11.pdf
+2012	-	-	-	1	1,2	2	-	-	-	-	-	-	”Solstranddeklarationen” — Nordic cooperation.pdf
+2013	1	2	2	1	2	2	-	-	-	-	-	-	Deklaration från de nordiska statsministrarna om att bekämpa gränshinder i Norden — Nordic cooperation.pdf
+2014	-	-	-	-	-	-	-	-	-	-	-	-	Declaration by the ministers of health and social affairs on the future of co-operation on health in the Nordic Region — Nordic cooperation.pdf
+2014	-	-	-	1	1	2	-	-	-	-	-	-	Nordisk konvention om social trygghet — Nordic cooperation.pdf
+2015	1	1	1	1	1	1	-	-	-	-	-	-	Declaration by the Nordic prime ministers concerning freedom of movement in the Nordic Region — Nordic cooperation.pdf
+2015	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on Antimicrobial resistance through a One Health perspective — Nordic cooperation.pdf
+2015	-	-	-	-	-	-	-	-	-	-	-	-	Declaration on welfare benefits in the social and health area in the Nordic countries and interaction with the EU rules and with Regulation 883_2004 — Nordic cooperation.pdf
+2015	-	-	-	1	2	1	-	-	-	-	-	-	Joint Nordic Declaration on Unemployment Benefits and Regulation (EC) No.pdf
+2015	-	-	-	-	-	-	-	-	-	-	-	-	Nordic Climate and Environment Ministers Declaration of Climate Change, 28.pdf
+2016	-	-	-	-	-	-	-	-	-	-	-	-	Declaration by the Nordic Ministers of Culture on Promoting Diversity of Cultural Expressions and Artistic Freedom in a Digital Age — Nordic cooperation.pdf
+2016	-	-	-	-	-	-	-	-	-	0.5	2	1	Deklaration om folkhälsosamarbete i Norden — Nordic cooperation.pdf
+2016	-	-	-	1	1,2	3	-	-	-	-	-	-	Freedom of movement in the Nordic Region must be protected – declaration from the meeting of the Ministers for Nordic Co-operation on 19 April 2016 — Nordic cooperation.pdf
+2016	-	-	-	-	-	-	-	-	-	-	-	-	Joint Nordic Declaration on the European Pillar of Social Rights — Nordic cooperation.pdf
+2016	-	-	-	0.5	2	2	-	-	-	-	-	-	Nordic Declaration on the Recognition of Qualifications Concerning Higher Education The Reykjavik Declaration (Revised 2016) — Nordic cooperation.
